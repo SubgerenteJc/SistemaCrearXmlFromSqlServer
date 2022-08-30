@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\bin\Debug\XmlFromSqlServer.exe.config
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\bin\Debug\XmlFromSqlServer.exe
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\bin\Debug\XmlFromSqlServer.pdb
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\obj\Debug\XmlFromSqlServer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\obj\Debug\XmlFromSqlServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\obj\Debug\XmlFromSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\obj\Debug\XmlFromSqlServer.exe
+C:\Users\Lenovo\source\repos\XmlFromSqlServer\XmlFromSqlServer\obj\Debug\XmlFromSqlServer.pdb
